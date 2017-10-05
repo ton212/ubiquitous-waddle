@@ -12,4 +12,7 @@ def summation(n1, n2):
 def aa():
 	print('bbb')
 
+def bb():
+	print('git101')
+
 cal(int(input()), int(input()))
