@@ -9,6 +9,12 @@ def subtraction(n1, n2):
 def summation(n1, n2):
 	return n1 + n2
 
+def aa():
+	print('bbb')
+
+def bb():
+	print('git101')
+
 def test():
 	print('aaa')
 
